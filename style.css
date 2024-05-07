@@ -9,7 +9,7 @@ body{
 h1{
     color: black;
     font-family: "Rubik Scribble", sans-serif;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
     margin-bottom: -40px;
     margin-top: 10px;
@@ -17,7 +17,7 @@ h1{
 h2{
     color: #a11e3b;
     font-family: "McLaren", sans-serif;
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
 }
 h3{
