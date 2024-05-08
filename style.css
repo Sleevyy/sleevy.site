@@ -172,9 +172,11 @@ a:visited{
 }
 
 .portfolio_img{
-    width:100%;
-    height: 100%;
+    width:80%;
+    height: 80%;
     display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .container {
@@ -201,6 +203,13 @@ a:visited{
     margin-left: 15%;
     margin-right: 15%;
 }
+hr {
+    border: none;
+    border-top: 6px dotted #fca155;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
 
 
 
